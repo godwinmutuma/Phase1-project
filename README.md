@@ -49,8 +49,13 @@ From the analysis, I came up with the following conclusion and recommendation:
 - Consider Turbo Jet Engines: Jet engines may cost more but usually have fewer accidents than reciprocating engines.
 - Avoid High-Risk Models: From the analysis, some aircraft models tend to pose more risk with Model 152, 172 and 172N having relatively very high incidents hence I can term them as riskier.
 - Focusing on Commercial and Cargo Flights: These types of operations generally have fewer accidents compared to personal or business flights.
-- Monitor Weather: The company can invest more in weather monitoring tools as well as improving the pilots' skills since from the analysis where I was comparing the weather conditions and their relative number of accidents, I noted that many accidents occurred in the (Visual Metrological Conditions(VMC)) where the pilots are advised to fly by sight compared to (Instrumental Metrological Conditions (IMS)) where the pilots use weather monitoring tools.
+- Monitor Weather: The company can invest more in weather monitoring tools as well as improving the pilots' skills since from the analysis where I was comparing the weather conditions and their relative number of accidents, I noted that many accidents occurred in the (Visual Metrological Conditions (VMC)) where the pilots are advised to fly by sight compared to (Instrumental Metrological Conditions (IMS)) where the pilots use weather monitoring tools.
 - Maintain Aircraft Carefully: I propose this because, having some aircraft with only a single engine, hence no backups, requires a fully functional engine and this can be achieved by regular inspections to make sure everything is well.
 - Acquire Insurance: From the analysis, some aircraft are damaged, some have substantial damage and others have minor damage. These damages can be costly to repair and in case of any serious injuries from those on board, the treatment too can be costly hence getting insurance is advised.
 
+## Links to Resources
+- [Aviation Analysis.pdf](https://github.com/godwinmutuma/Phase1-project/blob/main/Aviation%20Analysis.pdf)
+- [Jupyter Notebook](https://github.com/godwinmutuma/Phase1-project/blob/main/index.ipynb)
+- [Cleaned Copy of the Dataset](https://github.com/godwinmutuma/Phase1-project/blob/main/cleaned_AviationData.csv)
+- [Aircraft Accident Dashboard](https://public.tableau.com/app/profile/godwin.mutuma/viz/Phase1Project_17273041562720/RiskAssessmentandData-DrivenRecommendationsforAircraftAcquisition?publish=yes)
 
